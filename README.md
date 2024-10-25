@@ -1,7 +1,7 @@
 # Project 2 
 ## 
 
-**Sojood AbuAlrub **: 
+**Sojood AbuAlrub** : 
 
 ### Business problem:
 
