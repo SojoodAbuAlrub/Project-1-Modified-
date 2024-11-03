@@ -2,7 +2,7 @@
 
 **Sojood AbuAlrub** : 
 
-### Business problem:
+### Project Oversight:
 This project predicts sales using Random Forest and Linear Regression models. Key modifications involve leveraging feature importance from Random Forest and coefficients from Linear Regression to improve prediction accuracy and interpretability.
 
 
